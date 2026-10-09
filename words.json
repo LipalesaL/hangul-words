@@ -1,0 +1,66 @@
+[
+  {
+    "hangul": "편의점",
+    "romanization": "pyeonuijeom",
+    "meaning": "convenience store",
+    "phrase": "편의점 어디예요?",
+    "phraseMeaning": "Where is the convenience store?",
+    "theme": "Convenience store"
+  },
+  {
+    "hangul": "화장실",
+    "romanization": "hwajangsil",
+    "meaning": "restroom",
+    "phrase": "화장실 어디예요?",
+    "phraseMeaning": "Where is the restroom?",
+    "theme": "General"
+  },
+  {
+    "hangul": "지하철",
+    "romanization": "jihacheol",
+    "meaning": "subway",
+    "phrase": "지하철역 어디예요?",
+    "phraseMeaning": "Where is the subway station?",
+    "theme": "Subway"
+  },
+  {
+    "hangul": "출구",
+    "romanization": "chulgu",
+    "meaning": "exit",
+    "phrase": "출구 어디예요?",
+    "phraseMeaning": "Where is the exit?",
+    "theme": "Subway"
+  },
+  {
+    "hangul": "메뉴",
+    "romanization": "menyu",
+    "meaning": "menu",
+    "phrase": "메뉴 주세요.",
+    "phraseMeaning": "Menu, please.",
+    "theme": "Restaurant"
+  },
+  {
+    "hangul": "물",
+    "romanization": "mul",
+    "meaning": "water",
+    "phrase": "물 주세요.",
+    "phraseMeaning": "Water, please.",
+    "theme": "Restaurant"
+  },
+  {
+    "hangul": "공항",
+    "romanization": "gonghang",
+    "meaning": "airport",
+    "phrase": "공항 어디예요?",
+    "phraseMeaning": "Where is the airport?",
+    "theme": "Airport"
+  },
+  {
+    "hangul": "도서관",
+    "romanization": "doseogwan",
+    "meaning": "library",
+    "phrase": "도서관 어디예요?",
+    "phraseMeaning": "Where is the library?",
+    "theme": "University"
+  }
+]
